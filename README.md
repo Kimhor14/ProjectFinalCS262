@@ -1,2 +1,2 @@
-# ProjectFinalCS262_Frontend
+# ProjectFinalCS262
 Frontend, Backend, and API file
